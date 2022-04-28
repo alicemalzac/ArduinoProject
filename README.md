@@ -1,3 +1,8 @@
-# Projeto Arduino
+# Arduino project
 
-Projeto feito em Arduino para acender e apagar um led.
+Project made in Arduino framework to turn a led on and off.
+
+# Usage 
+
+1. Download and install the Arduino IDE
+2. Run the code in the IDE. 
